@@ -1,1 +1,1 @@
-#<a href="https://karolina223.github.io/Matematyka/" target="_blank">Live Preview</a>
+<a href="https://karolina223.github.io/Matematyka/">Live Preview</a>
